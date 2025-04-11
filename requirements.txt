@@ -1,0 +1,6 @@
+streamlit
+streamlit-authenticator
+playwright
+nest_asyncio
+pandas
+pyyaml
